@@ -15,7 +15,7 @@ El diseño del caso de prueba realizado muestra el estado de ejecución actual d
 - Fallado: 18 casos de prueba.
 - Pasado: 62 casos de prueba.
 
-![](metricas/Estado-Pruebas.png.png)
+![](metricas/Estado-Pruebas.png)
 
 ## Desglose por tipo de pruebas y porcentajes:
 - Pruebas Unitarias (PU): 3 casos de prueba (4%).
@@ -23,7 +23,7 @@ El diseño del caso de prueba realizado muestra el estado de ejecución actual d
 - Pruebas No Funcionales (PNF): 37 casos de prueba (46%).
 - Pruebas Integración (PI): 16 casos de prueba (20%).
 
-![](metricas/Tipo-Pruebas.png.png)
+![](metricas/Tipo-Pruebas.png)
 
 
 ## Desglose por funcionalidad:
@@ -36,7 +36,7 @@ El diseño del caso de prueba realizado muestra el estado de ejecución actual d
 - Test Cerveza Club 473: 8 pruebas.
 - Test Cerveza Okotoberfest: 8 pruebas.
 
-![](metricas/Total-Pruebas.png.png)
+![](metricas/Total-Pruebas.png)
 
 ## Total de casos de prueba: 21.
 - Total de pruebas: 80 
