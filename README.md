@@ -47,7 +47,7 @@ A pesar de que la mayoría de los casos de prueba han pasado con éxito, la pres
 Se recomienda priorizar la resolución de los casos de prueba fallidos y aumentar la cobertura de pruebas, especialmente en las áreas con menor cantidad de casos de prueba diseñados.
 Este análisis proporciona una base sólida para la mejora continua del proceso de prueba y garantiza la calidad y confiabilidad del sistema en desarrollo.
 
-## 5. [Automatización de pruebas.](Automatizacion/)
+## 2. [Automatización de pruebas.](Automatizacion/)
     
 Se ha creado un script de automatización que sigue el flujo normal de un usuario revisando la página web.
 
