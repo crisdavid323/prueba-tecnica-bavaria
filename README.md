@@ -47,6 +47,14 @@ A pesar de que la mayoría de los casos de prueba han pasado con éxito, la pres
 Se recomienda priorizar la resolución de los casos de prueba fallidos y aumentar la cobertura de pruebas, especialmente en las áreas con menor cantidad de casos de prueba diseñados.
 Este análisis proporciona una base sólida para la mejora continua del proceso de prueba y garantiza la calidad y confiabilidad del sistema en desarrollo.
 
+## 5. [Automatización de pruebas.](Automatizacion/)
+    
+Se ha creado un script de automatización que sigue el flujo normal de un usuario revisando la página web.
+
+Para llevar a cabo estas acciones, se ha utilizado Selenium WebDriver en conjunto con Python. Se ha estructurado el código en clases y métodos para una mejor organización y reutilización del código. Además, se han creado casos de prueba que validan el comportamiento esperado de las funciones implementadas.
+
+El script de automatización se ejecuta en un navegador Chrome.
+
 ## Estándares que se aplicaron en la prueba técnica.
 
 En esta prueba técnica, se aplicaron varios estándares y metodologías recomendadas por el ISTQB (International Software Testing Qualifications Board) para el diseño y ejecución de pruebas de software. Algunos de los estándares y metodologías aplicados incluyen:
